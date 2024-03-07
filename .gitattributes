@@ -1,2 +1,0 @@
-E:/DataAnalytics[[:space:]]Github/Marathon-EDA[[:space:]]Project/dataset/TWO_CENTURIES_OF_UM_RACES.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
